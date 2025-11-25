@@ -28,14 +28,14 @@ let regenerativeProjects = [
     },
     {
         "Project Name": "Terramay",
-        "Full Address": "Ros\u00e1rio, Alandroal, Alentejo",
-        "District": "\u00c9vora",
+        "Full Address": "Rosário, Alandroal, Alentejo",
+        "District": "Évora",
         "Latitude": 38.6238,
         "Longitude": -7.345,
         "Phone": "+351 926 543 221",
         "Website": "https://terramay.com",
         "Email": "hello@terramay.com",
-        "City": "Ros\u00e1rio",
+        "City": "Rosário",
         "Country": "Portugal",
         "Regenerative Practices": [
             "Agroforestry",
@@ -48,7 +48,7 @@ let regenerativeProjects = [
         ],
         "Products": [
             "Bread",
-            "CSA / Box Scheme",
+            "CSA Box",
             "Fish",
             "Meat & Poultry",
             "Pantry Products",
@@ -57,14 +57,14 @@ let regenerativeProjects = [
     },
     {
         "Project Name": "Vale da Lama (Quinta Vale da Lama)",
-        "Full Address": "Odi\u00e1xere, Lagos, Algarve",
+        "Full Address": "Odiáxere, Lagos, Algarve",
         "District": "Faro",
         "Latitude": 37.14,
         "Longitude": -8.63,
         "Phone": "+351 926 485 568",
         "Website": "https://valedalama.net",
         "Email": "",
-        "City": "Odi\u00e1xere",
+        "City": "Odiáxere",
         "Country": "Portugal",
         "Regenerative Practices": [
             "Biodiversity Enhancement",
@@ -74,7 +74,7 @@ let regenerativeProjects = [
             "Water Management"
         ],
         "Products": [
-            "CSA / Box Scheme",
+            "CSA Box",
             "Fruits",
             "Pantry Products",
             "Vegetables",
@@ -84,7 +84,7 @@ let regenerativeProjects = [
     {
         "Project Name": "Herdade do Freixo do Meio",
         "Full Address": "Foros de Vale Figueira, Montemor-o-Novo, Alentejo",
-        "District": "\u00c9vora",
+        "District": "Évora",
         "Latitude": 38.7032,
         "Longitude": -8.3263,
         "Phone": "+351 936 609 373",
@@ -137,7 +137,7 @@ let regenerativeProjects = [
     },
     {
         "Project Name": "Sementes Vivas",
-        "Full Address": "Herdade do Couto da V\u00e1rzea, Estrada Nacional 354, 6060-270 Ladoeiro",
+        "Full Address": "Herdade do Couto da Várzea, Estrada Nacional 354, 6060-270 Ladoeiro",
         "District": "Castelo Branco",
         "Latitude": 39.88,
         "Longitude": -7.36,
@@ -160,15 +160,15 @@ let regenerativeProjects = [
         ]
     },
     {
-        "Project Name": "Associa\u00e7\u00e3o Terra Sintr\u00f3pica",
-        "Full Address": "Rua Dr. Serr\u00e3o Martins n\u00ba36, M\u00e9rtola (HQ) / Horta da Malhadinha (Project)",
+        "Project Name": "Associação Terra Sintrópica",
+        "Full Address": "Rua Dr. Serrão Martins nº36, Mértola (HQ) / Horta da Malhadinha (Project)",
         "District": "Beja",
         "Latitude": 37.638,
         "Longitude": -7.662,
         "Phone": "",
         "Website": "https://terrasintropica.com",
         "Email": "info@terrasintropica.com",
-        "City": "M\u00e9rtola",
+        "City": "Mértola",
         "Country": "Portugal",
         "Regenerative Practices": [
             "Syntropic Agriculture",
@@ -229,7 +229,7 @@ let regenerativeProjects = [
             "Soil Regeneration"
         ],
         "Products": [
-            "CSA / Box Scheme",
+            "CSA Box",
             "Direct Sales",
             "Vegetables"
         ]
@@ -253,9 +253,9 @@ let regenerativeProjects = [
             "Circular Economy"
         ],
         "Products": [
-            "CSA / Box Scheme",
+            "CSA Box",
             "Processed Foods",
-            "Education / Workshops",
+            "Education",
             "Nursery",
             "Farm Shop"
         ]
@@ -263,7 +263,7 @@ let regenerativeProjects = [
     {
         "Project Name": "Quinta do Alecrim (Hortas da Rainha)",
         "Full Address": "Torres Novas, Central Portugal",
-        "District": "Santar\u00e9m",
+        "District": "Santarém",
         "Latitude": 39.4802,
         "Longitude": -8.5399,
         "Phone": "+351 913 776 136",
@@ -281,15 +281,15 @@ let regenerativeProjects = [
             "Soil Regeneration"
         ],
         "Products": [
-            "CSA Boxes (Lisboa and Torres Novas)",
+            "CSA Box",
             "Local Markets",
             "Vegetables"
         ]
     },
     {
-        "Project Name": "Herdade de S\u00e3o Lu\u00eds / Porcus Natura",
-        "Full Address": "Ermida de S\u00e3o Lu\u00eds da Mogueira, Serra de Monfurado, Montemor-o-Novo",
-        "District": "\u00c9vora",
+        "Project Name": "Herdade de São Luís / Porcus Natura",
+        "Full Address": "Ermida de São Luís da Mogueira, Serra de Monfurado, Montemor-o-Novo",
+        "District": "Évora",
         "Latitude": 38.604,
         "Longitude": -8.232,
         "Phone": "+351 939 858 934",
@@ -314,7 +314,7 @@ let regenerativeProjects = [
     {
         "Project Name": "Quinta da Anema (Amena Farm)",
         "Full Address": "Lavre, Montemor-o-Novo, Alentejo",
-        "District": "\u00c9vora",
+        "District": "Évora",
         "Latitude": 38.8333,
         "Longitude": -8.3667,
         "Phone": "+351 265 894 405",
@@ -364,14 +364,14 @@ let regenerativeProjects = [
     },
     {
         "Project Name": "BioFrade",
-        "Full Address": "Lourinh\u00e3, Oeste Region",
+        "Full Address": "Lourinhã, Oeste Region",
         "District": "Lisboa",
         "Latitude": 39.24,
         "Longitude": -9.31,
         "Phone": "+351 261 419 331",
         "Website": "https://www.biofrade.com",
         "Email": "info@biofrade.com",
-        "City": "Lourinh\u00e3",
+        "City": "Lourinhã",
         "Country": "Portugal",
         "Regenerative Practices": [
             "Biodiversity Enhancement",
@@ -485,7 +485,7 @@ let regenerativeProjects = [
             "Producer Support"
         ],
         "Products": [
-            "CSA / Box Scheme",
+            "CSA Box",
             "Farmer Aggregation",
             "Local Products",
             "Pantry Products"
