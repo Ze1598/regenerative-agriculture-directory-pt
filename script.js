@@ -44,6 +44,8 @@ function initializeElements() {
     mapViewBtn = document.getElementById('mapViewBtn');
     listView = document.getElementById('listView');
     mapView = document.getElementById('mapView');
+    // Set current year
+    document.getElementById('currentYear').textContent = new Date().getFullYear();
     projectsList = document.getElementById('projectsList');
     noResults = document.getElementById('noResults');
     resultsCount = document.getElementById('resultsCount');
