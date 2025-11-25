@@ -2,6 +2,8 @@
 
 A curated directory of regenerative agriculture projects, farms, and sustainable food systems in Portugal.
 
+**Live Site:** [https://regenerativeportugal.com](https://regenerativeportugal.com)
+
 ## Overview
 
 This project aims to map and promote initiatives that are regenerating the soil, increasing biodiversity, and producing healthy food in Portugal. It provides an interactive map and a searchable list of projects, filtering by location and practices.
